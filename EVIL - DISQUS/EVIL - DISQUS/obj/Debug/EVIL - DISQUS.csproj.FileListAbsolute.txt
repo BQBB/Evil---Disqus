@@ -1,0 +1,9 @@
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\bin\Debug\EVIL - DISQUS.exe.config
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\bin\Debug\EVIL - DISQUS.exe
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\bin\Debug\EVIL - DISQUS.pdb
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\obj\Debug\EVIL - DISQUS.csprojAssemblyReference.cache
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\obj\Debug\EVIL___DISQUS.Form1.resources
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\obj\Debug\EVIL___DISQUS.Properties.Resources.resources
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\obj\Debug\EVIL - DISQUS.csproj.GenerateResource.cache
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\obj\Debug\EVIL - DISQUS.exe
+F:\source\repos\EVIL - DISQUS\EVIL - DISQUS\obj\Debug\EVIL - DISQUS.pdb
